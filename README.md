@@ -4,7 +4,8 @@
 
 **mdBook**是一个使用Markdown创建书籍的命令行工具。它非常适合创建产品或API文档、教程、课程材料或任何需要清晰、易于导航和可定制演示的内容。
 
-英文官网：[https://rust-lang.github.io/mdBook/](https://rust-lang.github.io/mdBook/)
+英文官网：[https://rust-lang.github.io/mdBook/](https://rust-lang.github.io/mdBook/)  
+本教程访问地址：[https://doc.mici.tech/mdbook-chinese-tutorial](https://doc.mici.tech/mdbook-chinese-tutorial)
 
 
 ## 关于作者
