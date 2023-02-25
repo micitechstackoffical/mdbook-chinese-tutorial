@@ -34,6 +34,7 @@
     - [mdBook特有功能](format/mdbook.md)
     - [Markdown语法](format/markdown.md)
 - [持续集成](continuous-integration.md)
+- [第三方插件](plugin.md)
 - [对于开发人员](for_developers/README.md)
     - [预处理器](for_developers/preprocessors.md)
     - [渲染器](for_developers/backends.md)

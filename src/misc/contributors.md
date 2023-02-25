@@ -21,3 +21,7 @@
 - Josh Rotenberg ([joshrotenberg](https://github.com/joshrotenberg))
 
 如果你觉得自己在这个列表中被遗漏了，那么你可以通过提交PR进行添加。
+
+
+本书的翻译者：
+- [幂次小栈](https://doc.mici.tech)
